@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  
-
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -13,10 +11,10 @@
   "description": "",
   "dependencies": {
     "colors": "^1.4.0",
-    "inquirer": "^8.2.4",
-    "jest": "^29.7.0"
+    "inquirer": "^8.2.4"
   },
-  "script": {
-    "test": "jest"
+
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
