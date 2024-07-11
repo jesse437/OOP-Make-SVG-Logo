@@ -37,11 +37,13 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ![alt text](images/circle.svg)
 
-<video controls src="SVG-logo-presentation.mp4" title="Title"></video>
+## <video controls src="images/SVG-LOGO-presentation.mp4" title="Title"></video>
+
 
 # 6. Collaborators
 
-[Jesus Ruiz Gutierrez](https://github.com/jesse437)
+## [Jesus Ruiz Gutierrez](https://github.com/jesse437)
+
 
 # 7. Technologies Used
 
