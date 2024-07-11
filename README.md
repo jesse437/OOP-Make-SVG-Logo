@@ -2,7 +2,7 @@
 
 ### Create a personalized SVG-LOGO with OOP
 
-# Description 
+# Description
 
 ### Creating an SVG-LOGO has never been this easy. Using OOP language, you can now create an SVG-LOGO by answering just a few questions.
 
@@ -27,16 +27,17 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 # 3. How to use
 
-### Because Express.js is a Node.js framework we essentially use Node command followed by the server.js file name to begin our application on the terminal. Then you will be prompted to answer a few questions. When finished you will see the logo file appear on the images folder. 
+### With Object Oriented Programming we start the website from the terminal using the Node command followed by the server.js file name to begin our application. Then you will be prompted to answer a few questions. When finished you will see the logo file appear on the images folder. To see the image just open the HTML file live.
 
 # 4. Deployment
 
+# https://github.com/jesse437/OOP-Make-SVG-Logo
 
 # 5. Visuals
 
 ![alt text](images/circle.svg)
 
-# https://github.com/jesse437/OOP-Make-SVG-Logo
+<video controls src="SVG-logo-presentation.mp4" title="Title"></video>
 
 # 6. Collaborators
 
